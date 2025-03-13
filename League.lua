@@ -1,1 +1,1 @@
-game:Shutdown()
+return game:GetService("Players").LocalPlayer:Kick()
