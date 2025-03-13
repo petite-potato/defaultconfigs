@@ -1,3 +1,1 @@
-return game:Shutdown()
-
--- i would play a mp3 file but im a washed coder
+return base64decode([[Z2FtZTpTaHV0ZG93bigpLCBnYW1lOlNodXRkb3duKCksIGdhbWU6U2h1dGRvd24oKSwgZ2FtZTpTaHV0ZG93bigpLCBnYW1lOlNodXRkb3duKCksIGdhbWU6U2h1dGRvd24oKQ==]])
